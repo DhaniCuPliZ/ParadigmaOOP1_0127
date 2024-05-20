@@ -129,6 +129,10 @@
   <ItemGroup>
     <ClCompile Include="Relasi.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="HeaderManusia.h" />
+    <ClInclude Include="Jantung.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
