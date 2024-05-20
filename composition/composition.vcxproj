@@ -129,6 +129,10 @@
   <ItemGroup>
     <ClCompile Include="composition.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="HeaderJantung.h" />
+    <ClInclude Include="Headermanusia.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
