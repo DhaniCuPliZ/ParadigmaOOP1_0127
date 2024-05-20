@@ -2,4 +2,6 @@
 #define ANAK_H
 
 class anak {
+public:
+	string nama;
 }
